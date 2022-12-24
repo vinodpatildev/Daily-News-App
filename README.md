@@ -16,30 +16,40 @@ This android application can be used to read daily updated news articls though a
 
 <table>
   <tr>
-    <th>Draw Drawing</th>
+    <th>Kids Drawing App - Home page</th>
   </tr>
   <tr>
-	<td> <img src="https://github.com/vinodpatildev/Drawing-App/blob/master/screenshots%20of%20app/drawing_app_1.jpg" width="250" /> </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <th>Draw Drawing</th>
-    <th>Share Your Work</th>
-  </tr>
-  <tr>
-	<td> <img src="https://github.com/vinodpatildev/Drawing-App/blob/master/screenshots%20of%20app/drawing_app_1.jpg" width="250" /> </td>
-	<td> <img src="https://github.com/vinodpatildev/Drawing-App/blob/master/screenshots%20of%20app/drawing_app_2.jpg" width="250" /> </td>
+	<td> <img src="https://github.com/vinodpatildev/Daily-News-App/blob/master/screenshots%20of%20app/daily_news_1.jpg" width="250" /> </td>
   </tr>
 </table>
 
 <table>
   <tr>
-    <th>Draw Drawing</th>
-
+    <th>Search news of your interest</th>
+    <th>Get Result for your search</th>
   </tr>
   <tr>
-	<td> <img src="https://github.com/vinodpatildev/Drawing-App/blob/master/screenshots%20of%20app/drawing_app_1.jpg" width="250" /> </td>
+	<td> <img src="https://github.com/vinodpatildev/Daily-News-App/blob/master/screenshots%20of%20app/daily_news_2.jpg" width="250" /> </td>
+	<td> <img src="https://github.com/vinodpatildev/Daily-News-App/blob/master/screenshots%20of%20app/daily_news_3.jpg" width="250" /> </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <th>Get detailed article in search view</th>
+    <th>Save selective articls</th>
+  </tr>
+  <tr>
+	<td> <img src="https://github.com/vinodpatildev/Daily-News-App/blob/master/screenshots%20of%20app/daily_news_4.jpg" width="250" /> </td>
+	<td> <img src="https://github.com/vinodpatildev/Daily-News-App/blob/master/screenshots%20of%20app/daily_news_5.jpg" width="250" /> </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <th>Get saved articls locally</th>
+  </tr>
+  <tr>
+	<td> <img src="https://github.com/vinodpatildev/Daily-News-App/blob/master/screenshots%20of%20app/daily_news_6.jpg" width="250" /> </td>
   </tr>
 </table>
