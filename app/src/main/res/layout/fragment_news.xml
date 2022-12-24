@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    android:background="@color/layout_background"
+    android:background="@color/secondary_text_color"
     tools:context=".NewsFragment">
 <SearchView
         android:id="@+id/svNews"
@@ -16,7 +16,8 @@
         android:id="@+id/rvNews"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:padding="5dp">
+        android:padding="5dp"
+        >
     </androidx.recyclerview.widget.RecyclerView>
     <ProgressBar
         android:id="@+id/progressBar"

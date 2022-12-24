@@ -5,15 +5,16 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    android:background="@color/layout_background"
+    android:background="@color/secondary_text_color"
     tools:context=".SavedFragment">
 
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/rvNews"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:padding="5dp">
-    </androidx.recyclerview.widget.RecyclerView>
+        android:padding="5dp"
+        android:background="@color/secondary_text_color"
+        />
     <ProgressBar
         android:id="@+id/progressBar"
         style="?android:attr/progressBarStyle"
